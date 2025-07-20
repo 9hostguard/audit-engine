@@ -6,12 +6,12 @@
       "repo": "smartcontractkit/chainlink"
     }
   ],
-  "commit": false,
+  "commit": true,
   "fixed": [],
   "linked": [],
   "privatePackages": {
-    "version": true,
-    "tag": true
+    "version": false,
+    "tag": false
   },
   "access": "restricted",
   "baseBranch": "develop",
